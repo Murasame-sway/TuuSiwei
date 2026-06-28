@@ -2,7 +2,7 @@
 
 Welcome to my GitHub profile! 🌟
 
-I am currently pursuing a master's degree and will graduate in June 2026.
+I got master's degree in June 2026.
 
 I currently work at Humanify, Hangzhou.
 
@@ -12,13 +12,13 @@ I currently work at Humanify, Hangzhou.
 ## Skills
 
 #### Programming Languages
-![Languages](https://skillicons.dev/icons?i=c,cpp,js,go,python,java,swift,kotlin)
+![Languages](https://skillicons.dev/icons?i=python,java)
 
 #### Frontend Technologies
-![Frontend Technologies](https://skillicons.dev/icons?i=react,angular,next,html,css,tailwind)
+![Frontend Technologies](https://skillicons.dev/icons?i=html,css,javascript)
 
 #### Backend Technologies
-[![Backend Technologies](https://skillicons.dev/icons?i=aws,azure,django,flask,docker,fastapi&perline=3)](https://skillicons.dev)
+[![Backend Technologies](https://skillicons.dev/icons?i=docker](https://skillicons.dev)
 
 #### Database & Tools
 ![Database & Tools](https://skillicons.dev/icons?i=mysql)
