@@ -21,7 +21,7 @@ I currently work at Humanify, Hangzhou.
 [![Backend Technologies](https://skillicons.dev/icons?i=aws,azure,django,flask,docker,fastapi&perline=3)](https://skillicons.dev)
 
 #### Database & Tools
-![Database & Tools](https://skillicons.dev/icons?i=mysql,mongodb,bitbucket,jira)
+![Database & Tools](https://skillicons.dev/icons?i=mysql)
 
 #### Other tools & Technologies
 ![Others](https://skillicons.dev/icons?i=git,github,markdown,vscode)
